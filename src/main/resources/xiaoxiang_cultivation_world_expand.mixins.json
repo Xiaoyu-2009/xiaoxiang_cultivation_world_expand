@@ -1,0 +1,13 @@
+{
+    "required": true,
+    "minVersion": "0.8",
+    "package": "dev.xiaoyu.xiaoxiang_cultivation_world_expand.mixin",
+    "compatibilityLevel": "JAVA_17",
+    "refmap": "xiaoxiang_cultivation_world_expand.refmap.json",
+    "mixins": [
+      "net.minecraft.gametest.framework.GameTestRegistryMixin"
+    ],
+    "client": [
+    ],
+    "server": []
+}
